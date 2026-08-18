@@ -12,8 +12,6 @@ target-*/
 Thumbs.db
 
 # Environment
-.env
-.env.*
 
 # Batty runtime artifacts
 site/
@@ -28,3 +26,5 @@ site/
 .batty-target/
 .omx/
 .codex/
+config.bat
+node_modules
